@@ -1,6 +1,7 @@
 # Javascript and jQuery lectures files
 
-On a mac, you can use the built-in PHP server to serve files
+On a mac, you can use the built-in PHP server to serve files.
+
 In terminal, `cd` this directory and start the dev server like this:
 
 `
