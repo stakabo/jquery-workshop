@@ -27,7 +27,7 @@ Then you can open a browser window at this address: [http://127.0.0.1:8080/001/]
 
 ## 003 - How to include jQuery from a CDN
 
-## 004 - Simple usage of jQuery in a <script> tag, with document ready
+## 004 - Simple usage of jQuery in a `<script>` tag, with document ready
 
 ## 005 - Simple usage of jQuery in an external script, with document ready
 
