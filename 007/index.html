@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>jQuery Workshop</title>
+    <link rel="stylesheet" href="css/app.css">
+</head>
+
+<body>
+    <button id="open-modal-overlay" class="btn">Login!</button>
+    <div id="modal-overlay">
+        <div class="modal-box" id="modal-overlay-box">
+            <div class="modal-header">
+                <h2>Please login</h2>
+            </div>
+            <div class="modal-login-form">
+                <div>
+                    <input type="text" name="username" id="username" placeholder="Username" class="fake-it">
+                    <input type="text" name="password" id="password" placeholder="password" class="fake-it">
+                </div>
+                <button id="close-modal-overlay" class="btn close-btn">Cancel</button>
+                <button id="submit-btn" class="btn">Login</button>
+            </div>
+        </div>
+    </div>
+    <script src="//code.jquery.com/jquery-1.11.3.min.js"></script>
+    <script src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
+    <script src="script/app.js"></script>
+</body>
+
+</html>
