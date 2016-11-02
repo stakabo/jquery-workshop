@@ -7,7 +7,7 @@ In terminal, `cd` this directory and start the dev server like this:
 php -S 127.0.0.1:8080
 `
 
-And you can open a browser window at this address: `http://127.0.0.1:8080`
+Then you can open a browser window at this address: [http://127.0.0.1:8080/001/](http://127.0.0.1:8080/001/) or [http://127.0.0.1:8080/002/](http://127.0.0.1:8080/002/).
 
 
 ## 001 - Vanilla JS
